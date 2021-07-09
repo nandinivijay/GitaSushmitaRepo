@@ -1,0 +1,33 @@
+Q: what are the basic commands of Selenium ?
+Ans: Below are the basic commands of Selenium:
+
+1) Browser Commands: 
+	Get  
+	Title
+	CurrentURL
+	Close()
+	Quit()
+
+2)Navigation Command :
+	Forward
+	Back
+	refresh
+
+3) WebElements Commands:
+	find_elements
+	sendKeys()
+	isDisplayed
+	isSelected()
+	click()
+	isEnable()
+	getText()
+4) Action Command
+	
+	Switch_to_screen
+	doubleclick()
+	dragAndDrop()
+	switch_to_frame
+	move_to_element
+
+
+	
