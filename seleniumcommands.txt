@@ -1,0 +1,10 @@
+Basic commands of selenium?
+
+get()
+getCurrentUrl()
+ findElement(By, by) and click()
+ isEnabled()
+findElement(By, by) with sendKeys()
+ findElement(By, by) with getText()
+ Submit()
+ findElements(By, by)
