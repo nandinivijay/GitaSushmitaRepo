@@ -1,0 +1,7 @@
+Q: What are the various OOPS principal
+
+Ans: The four principles of object-oriented programming are:
+ 1) Encapsulation 
+ 2) Abstraction
+ 3) Inheritance
+ 4) Polymorphism
