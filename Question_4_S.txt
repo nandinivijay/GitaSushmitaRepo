@@ -1,0 +1,8 @@
+Q: Explain Scrum ceremonies?
+Ans: There are five key Scrum Ceremonies:
+
+1) Backlog grooming
+2) Sprint Planning
+3) Daily Scrum
+4) Sprint Review
+5) Sprint Retrospective
