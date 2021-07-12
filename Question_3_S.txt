@@ -1,0 +1,9 @@
+Explain the difference between Test Plan  and Test Strategy document:
+
+1)A test plan describes in detail the scope of testing and the different activities performed in testing whereas A test strategy is a high-level document containing some guidelines about the way testing will be carried out.
+2) A test plan is specific to a particular project whereas A test strategy is usually for a complete organization.
+3) It describes the whole testing activities in detail – the techniques used, schedule, resources, etc whereas It describes the high-level test design techniques to be used, environment specifications, etc.
+4) It is prepared by the test lead or test manager whereas It is generally prepared by the project manager.
+5) A test plan document includes components like – features to be tested, components not to be tested, approach to testing, pass-fail criteria, test deliverables, estimates, assumptions, etc 
+  whereas A test strategy document includes – scope, test approach, testing tools, test environment specifications, release control, risk analysis, etc.
+6) Test plans can be changed or updated whereas test strategy is usually not changed.
