@@ -1,0 +1,3 @@
+Q : Explain Karate Framework?
+Ans: Karate is an open-source API test automation tool. API tests are written using Behaviour Driven Development (BDD) Gherkin syntax.
+ Unlike other BDD frameworks like Cucumber, Specflow or JBehave, Karate has all the step definitions written for us so we don't have to worry about writing them.
