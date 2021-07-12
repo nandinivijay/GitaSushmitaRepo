@@ -1,0 +1,4 @@
+Q: What is a Payload?
+
+Ans: The Payload of an API Module is the body of your request and response message. It contains the data that you send to the server when you make an API request. 
+You can send and receive Payload in different formats, for instance JSON.
