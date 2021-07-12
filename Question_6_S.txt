@@ -1,0 +1,10 @@
+Q: Explain The different REST Methods
+Ans: The Different RESt Methods are as follow:
+
+1) POST: Post method is used to create a Rest API resourse.On successful creation, return HTTP status 201, returning a Location header with a link to the newly-created resource with the 201 HTTP status.
+
+2) GET: Get method is used retrieve information about the REST API resource. GET returns a representation in XML or JSON and an HTTP response code of 200 (OK). In an error case, it most often returns a 404 (NOT FOUND) or 400 (BAD REQUEST).
+
+3) PUT : Put method is used for update a REST API resource.On successful update, return 200 (or 204 if not returning any content in the body) from a PUT.
+
+4) DELETE: Delete methos is used for delete a REST API resource or related component.On successful deletion, return HTTP status 200 (OK)
