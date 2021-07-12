@@ -1,0 +1,16 @@
+Q: What are the basic git commands
+
+Below are the git basic commands :
+
+1) git init : This commands turns a directory into an empty Git repository
+2) git add : This commands is used to add files in the staging area for Git
+3) git commit: Record the changes made to the files to a local repository
+4) git Status : This command returns the current state of the repository.
+5) git config : With Git, there are many configurations and settings possible. git config is how to assign these settings.
+6) git branch: This command is used to determine what branch the local repository is on, add a new branch, or delete a branch.
+7) git checkout: To start working in a different branch, use git checkout to switch branches.
+8) git clone: To create a local working copy of an existing remote repository, use git clone to copy and download the repository to a computer
+9) git pull : To get the latest version of a repository run git pull. This pulls the changes from the remote repository to the local computer.
+10) git push: Sends local commits to the remote repository. git push requires two parameters: the remote repository and the branch that the push is for.
+
+
