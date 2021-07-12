@@ -1,0 +1,11 @@
+Q : Explain bug life cycle
+
+Ans: Below are the bug life Cycle:
+A Defect life cycle, also known as a Bug life cycle, is a cycle of a defect from which it goes through covering the different states in its entire life:
+
+ New ------> Open -----------> Fixed -----------> Retest -----------> Closed 
+  |		|		|		    |
+  |		|		|		    |
+  |		|		|		    |
+ Rejected	Deffered	|---------------- Reopen
+   	
