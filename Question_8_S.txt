@@ -1,0 +1,7 @@
+Q: What are Frames? Different commands used in Selenium to handle Frames?
+
+Ans: Frames are used to  divide the content into different sections.
+Commands used in selenium to handle frames are:
+	 1)  driver.switchTo().parentFrame()
+	 2) driver.switchTo().defaultContent()
+	 3) driver.switchTo().frame()
